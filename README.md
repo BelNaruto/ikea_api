@@ -1,4 +1,4 @@
-# IKEA Data API Documentation
+# IKEA Data API Documentation (Unofficial)
 
 ## Overview
 
