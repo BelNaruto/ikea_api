@@ -2,7 +2,11 @@
 
 ## Overview
 
+To use this API you have to Subscribe to the [API on RapidAPI](https://rapidapi.com/belchiorarkad-FqvHs2EDOtP/api/ikea-data-api) and include your API key in the X-RapidAPI-Key header.
+
 The IKEA Data API provides comprehensive access to IKEA's product catalog, search functionality, and store information. This API allows developers to integrate IKEA's extensive furniture and home goods database into their applications, enabling users to search for products, browse categories, check availability, and access detailed product information.
+
+
 
 **Perfect for:** E-commerce applications, price comparison tools, interior design apps, inventory management systems, and any application that needs access to IKEA's product data.
 
